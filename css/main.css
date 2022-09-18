@@ -1,0 +1,33 @@
+body{
+  margin:0;
+}
+
+.answer{
+  border:1px solid #56A0D3;
+  width:50%;
+  min-height:50px;
+}
+
+.tarheel-blue{
+  color:#56A0D3;
+}
+
+h1 {
+  text-align:center;
+}
+table {
+  text-align:center;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #333;
+  color:#fff;
+  padding:20px;
+  border:2px #000 solid;
+}
+
+td {
+  padding:20px;
+  border:2px #000 solid;
+}
